@@ -66,3 +66,14 @@ This code snippet performs the following tasks:
 17. Prints the confusion matrix and the accuracy of the model.
 
 ---------------------------------------------------------------------------------------
+K-Nearest Neighbors (KNN) is a non-parametric and supervised machine learning algorithm used for classification and regression tasks. It is a simple and intuitive algorithm that classifies new data points based on the majority class of its k nearest neighbors in the feature space.
+
+The algorithm works as follows:
+
+1. Select a value for k, which represents the number of nearest neighbors to consider.
+2. For a given test data point, calculate the distances to all training data points.
+3. Identify the k nearest neighbors based on the shortest distances.
+4. For classification, assign the majority class label among the k nearest neighbors to the test data point. For regression, take the average of the target values of the k nearest neighbors.
+5. Output the predicted class label or regression value for the test data point.
+
+KNN is a lazy learning algorithm, meaning that it does not explicitly build a model during the training phase. Instead, it stores all training instances and performs computation at the time of prediction. KNN is often used for its simplicity and ability to handle non-linear decision boundaries. However, it can be sensitive to the choice of k and the distance metric used.
