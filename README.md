@@ -8,4 +8,4 @@ Plots the error rate versus k to visualize the optimal value of k with the lowes
 ![](https://github.com/developer-venish/Salary-Estimation-using-K-NEAREST-NEIGHBOR/blob/main/demo.png)
 
 # Accuracy of the model
-![]([https://github.com/developer-venish/Salary-Estimation-using-K-NEAREST-NEIGHBOR/blob/main/demo.png](https://github.com/developer-venish/Salary-Estimation-using-K-NEAREST-NEIGHBOR/blob/main/accuracy.png)https://github.com/developer-venish/Salary-Estimation-using-K-NEAREST-NEIGHBOR/blob/main/accuracy.png)
+![](https://github.com/developer-venish/Salary-Estimation-using-K-NEAREST-NEIGHBOR/blob/main/accuracy.png)
